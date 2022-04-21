@@ -5,7 +5,7 @@ GIF2P Player
 Aplikasi ini berfungsi untuk menjadi pengingat Player Genshin Impact yang dapat diatur oleh pengguna
 dengan mengaktifkan notifikasi kepada material yang mereka inginkan
 
-#Package Expo Aplikasi :
+# Package Expo Aplikasi :
 1. "expo": "~44.0.0",
 2. "expo-status-bar": "~1.2.0",
 3. "react": "17.0.1",
@@ -16,7 +16,7 @@ dengan mengaktifkan notifikasi kepada material yang mereka inginkan
 8. "expo-notifications": "~0.14.0",
 9. "expo-constants": "~13.0.1"
 
-#Cara Instal : 
+# Cara Instal : 
 1. download apk "RC-Mario Vebriyanto-119140179-Tugas Individu 4.apk" di repository ini.
 2. Lalu lakukan instaling aplikasi pada pelafrom android anda.
 3. Menyetujui semua akses yang diperlukan aplikasi.
